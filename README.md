@@ -12,8 +12,8 @@
 <h2>Projetos</h2>
 <p>Aqui estão alguns dos projetos em que tenho trabalhado recentemente:</p>
 <ul>
-  <li><a href="https://github.com/Osouzaa/Gerenciador-Tarefas">Projeto 1</a>: Descrição breve do projeto.</li>
-  <li><a href="https://github.com/Osouzaa/Organo-Typescript">Projeto 2</a>: Descrição breve do projeto.</li>
+  <li><a href="https://github.com/Osouzaa/Gerenciador-Tarefas">Gerenciador de Tarefas</a>: Gerenciador de tarefas feito com HTML,CSS e JS. </li>
+  
   
 </ul>
 <h2>Contato</h2>
