@@ -19,8 +19,8 @@
 <h2>Contato</h2>
 <ul>
   <li>Email: gabrielsouza.dev@gmail.com</li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/gabrielsouza-dev/">seu-perfil</a></li>
-  <li>Website: <a href="#">seusite.com.br</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/gabrielsouza-dev/">Meu perfil no Linkedin</a></li>
+  <li>Website: <a href="#"></a></li>
 </ul>
 
 <p> Sinta-se à vontade para entrar em contato comigo se quiser discutir tecnologia, programação ou qualquer outra coisa relacionada a esses assuntos. Obrigado por visitar meu perfil no GitHub!</p>
