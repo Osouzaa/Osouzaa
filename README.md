@@ -5,7 +5,7 @@
   <li>JavaScript</li>
   <li>Node.js</li>
   <li>React</li>
-  <li>Typescript</li
+  <li>Typescript</li>
   <li>HTML</li>
   <li>CSS</li>
 </ul>
