@@ -9,6 +9,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Osouzaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+  <p> Sinta-se à vontade para entrar em contato comigo se quiser discutir tecnologia, programação ou qualquer outra coisa relacionada a esses assuntos. Obrigado por visitar meu perfil no GitHub!</p>
 ## Contatos:
 
 <div>
@@ -20,4 +21,4 @@
 </div>
 
 
-<p> Sinta-se à vontade para entrar em contato comigo se quiser discutir tecnologia, programação ou qualquer outra coisa relacionada a esses assuntos. Obrigado por visitar meu perfil no GitHub!</p>
+
