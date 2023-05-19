@@ -1,7 +1,7 @@
 
 
 <h1>Gabriel Souza Alves - Desenvolvedor Full Stack</h1>
-<p>Olá, sou Gabriel Souza Alves, um desenvolvedor Full Stack que estuda na <strong>ARNIA Escola de Programação</strong>. Sou apaixonado por tecnologia e programação, e estou sempre buscando aprender mais e melhorar minhas habilidades.</p>
+<h3>Olá, sou Gabriel Souza Alves</h3>
 
 <div>
 <a href="https://github.com/Osouzaa">
