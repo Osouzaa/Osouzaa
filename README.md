@@ -1,3 +1,8 @@
+
+
+<h1>Gabriel Souza Alves - Desenvolvedor Full Stack</h1>
+  
+<p>Olá, sou Gabriel Souza Alves, um desenvolvedor Full Stack que estuda na <strong>ARNIA Escola de Programação</strong>. Sou apaixonado por tecnologia e programação, e estou sempre buscando aprender mais e melhorar minhas habilidades.</p>
 <div>
 <a href="https://github.com/Osouzaa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piciliano&layout=compact&langs_count=7&theme=dracula"/>
@@ -14,8 +19,6 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<h1>Gabriel Souza Alves - Desenvolvedor Full Stack</h1>
-<p>Olá, sou Gabriel Souza Alves, um desenvolvedor Full Stack que estuda na <strong>ARNIA Escola de Programação</strong>. Sou apaixonado por tecnologia e programação, e estou sempre buscando aprender mais e melhorar minhas habilidades.</p>
 <h2>Tecnologias que eu uso</h2>
 <ul>
   <li>JavaScript</li>
