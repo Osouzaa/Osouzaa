@@ -1,7 +1,7 @@
-
+ 
 
 <h1>Gabriel Souza Alves - Desenvolvedor Full Stack</h1>
-<h3>Hi I'm Gabriel</h3>
+<h3>Hi I'm Gabriel 🖐</h3>
 
 <div>
 <a href="https://github.com/Osouzaa">
