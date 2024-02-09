@@ -2,7 +2,7 @@
 # Hi ✌, I'm Gabriel Souza
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I'm 20 years old and I'm a huge technology enthusiast. I'm a full stack developer and I'm very happy to welcome you to my GitHub repository. ❤️</p>&nbsp;
+<p align="center">I'm 21 years old and I'm a huge technology enthusiast. I'm a full stack developer and I'm very happy to welcome you to my GitHub repository. ❤️</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=69% align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Osouzaa&theme=radical" /> 
