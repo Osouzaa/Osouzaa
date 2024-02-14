@@ -24,6 +24,7 @@
 ### Backend Development
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![NEST.JS](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![PRISMA](https://img.shields.io/badge/Prisma-0c344b?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
 
 ### Database
 ![MONGODB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)&nbsp;
@@ -49,7 +50,7 @@
 <div> 
 <a href="https://www.instagram.com/_gabriellsouza_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:gabrielsouzaalves750@gmail.com"> <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "mailto:gabrielsouza.desenvolvedor@gmail.com"> <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/gabrielsouza-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 <div align="center">
