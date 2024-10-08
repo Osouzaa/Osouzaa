@@ -1,5 +1,5 @@
 
-# Hi ✌, I'm Gabriel Souza
+# Oi eu sou Gabriel Souza,
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I'm 21 years old and I'm a huge technology enthusiast. I'm a full stack developer and I'm very happy to welcome you to my GitHub repository. ❤️</p>&nbsp;
