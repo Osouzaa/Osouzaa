@@ -25,6 +25,7 @@
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![NEST.JS](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![PRISMA](https://img.shields.io/badge/Prisma-0c344b?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
+![Bun](https://img.shields.io/badge/Bun-ff5252?style=for-the-badge&logo=Bun&logoColor=white)
 
 ### Database
 ![MONGODB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)&nbsp;
